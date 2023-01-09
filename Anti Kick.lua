@@ -5,7 +5,7 @@ local OldNameCall = nil
 
 --// Global Variables
 
-getgenv().SendNotifications = true -- Set to true if you want to get notified regularly.
+getgenv().SendNotifications = false -- Set to true if you want to get notified regularly.
 
 --// Anti Kick Hook
 
